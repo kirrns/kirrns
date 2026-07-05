@@ -12,14 +12,14 @@
 
 ## Building
 
+- 🧠 **[Mimir](https://github.com/kirnsal/mimir)** - agent memory that has to prove it helps.
 - 🛠️ **[Zerocosttools](https://zerocosttools.skillxskill.com/)** - 60+ free browser utilities, free to use.
-- 🔒 Something in AI infrastructure. Launching soon.
 
 ## How I think
 
 Memory is the missing primitive in most agent systems. Agents that can't distinguish what they *know* from what they *assume*, or what they got *wrong* from what they *learned* - are just autocomplete with extra steps.
 
-I'm building toward open AI infrastructure - starting with memory, then the systems around it. Everything ships in the open.
+I'm building toward open AI infrastructure - starting with memory, then the systems around it. Everything ships in the open. [Mimir](https://github.com/kirnsal/mimir) is the first piece of that: a memory layer that won't let a lesson stick unless it's actually measured to help.
 
 ## GitHub Activity
  
