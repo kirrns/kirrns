@@ -12,21 +12,21 @@
 
 ## Building
 
-- 🧠 **[Mimir](https://github.com/kirnsal/mimir)** - agent memory that has to prove it helps.
+- 🧠 **[Mimir](https://github.com/kirrns/mimir)** - agent memory that has to prove it helps.
 - 🛠️ **[Zerocosttools](https://zerocosttools.skillxskill.com/)** - 60+ free browser utilities, free to use.
 
 ## How I think
 
 Memory is the missing primitive in most agent systems. Agents that can't distinguish what they *know* from what they *assume*, or what they got *wrong* from what they *learned* - are just autocomplete with extra steps.
 
-I'm building toward open AI infrastructure - starting with memory, then the systems around it. Everything ships in the open. [Mimir](https://github.com/kirnsal/mimir) is the first piece of that: a memory layer that won't let a lesson stick unless it's actually measured to help.
+I'm building toward open AI infrastructure - starting with memory, then the systems around it. Everything ships in the open. [Mimir](https://github.com/kirrns/mimir) is the first piece of that: a memory layer that won't let a lesson stick unless it's actually measured to help.
 
 ## GitHub Activity
  
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=kirnsal&hide_border=true)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=kirrns&hide_border=true)
 
 ## Connect
 
 [![X](https://img.shields.io/badge/-0xkirxn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xkirxn)
 [![Gmail](https://img.shields.io/badge/-kiransala.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kiransala.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kirnsal)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kirrns)
