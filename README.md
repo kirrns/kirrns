@@ -27,6 +27,6 @@ I'm building toward open AI infrastructure - starting with memory, then the syst
 
 ## Connect
 
-[![X](https://img.shields.io/badge/-0xkirxn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xkirxn)
+[![X](https://img.shields.io/badge/-0xkirxn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kirrns)
 [![Gmail](https://img.shields.io/badge/-kiransala.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kiransala.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kirrns)
